@@ -1,2 +1,2 @@
 # snake-qlearning
-My first attempt at reinforcement learning.
+My first reinforcement learning project: implementing and improving q-learning in my version of the atari snake game.
